@@ -9,7 +9,7 @@ Learning & Development: Sharpening my skills in Python for Data Science and Mach
 💡 Interests:
 AI & Future Technologies: Passionate about the impact of AI on global industries and exploring new tools.
 Beautiful Architecture: Driven by a vision to integrate classic, aesthetically pleasing designs into modern housing using innovative 3D printing technologies, my Moonshot business is to provide humans with beautiful places to live.
-Gardening & Scottish Country Dancing: Enjoy spending time outdoors and embracing traditional dance, albeit with slightly less accordion!
+Gardening & Scottish Country Dancing: Enjoy spending time outdoors and embracing traditional dance.
 
 🛠️ Tools & Technologies:
 Languages: Python, SQL, Excel VBA
